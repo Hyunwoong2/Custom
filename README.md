@@ -28,6 +28,7 @@
 <p>
   학습된 모델을 Pyqt Window에 적용하여 시각화.
 </p>
+![image](https://user-images.githubusercontent.com/82852526/127259175-541858de-2657-4c61-be37-a7dc10e7a8d3.png)
 
 ### 파일항목
 - Radians_Shooting - Windw가 없는 포물선 슈팅
