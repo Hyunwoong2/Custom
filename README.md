@@ -28,3 +28,9 @@
 <p>
   학습된 모델을 Pyqt Window에 적용하여 시각화.
 </p>
+<ul>
+  <li>Radians_Shooting - Windw가 없는 포물선 슈팅</li>
+  <li>action_model.h5 - 발사여부 가중치</li>
+  <li>rad_model.h5 - 발사각도 가중치</li>
+  <li>Parabolic_Shooting Window를 활용한 포물선 슈팅</li>
+</ul>
